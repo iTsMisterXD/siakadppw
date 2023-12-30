@@ -1,0 +1,47 @@
+{
+    "eventTitle":"Gacoan",
+    "firstPayer":[
+        {
+            "participant":"arjuna",
+            "paymentInformation": 141441515161615,
+            "paymentDomain":"Gopay"
+        },
+        {
+            "participant":"risal",
+            "paymentInformation": 131351561515532,
+            "paymentDomain":"Mandira"
+        }
+    ],
+    "participants":[
+        {
+            "participant":"awil",
+            "itemname":[
+                {"item": "gacoan lvl 1"}
+            ],
+            "items":[
+                {"itemprice": 13000}
+            ],
+            "payTo":[
+                "arjuna", "risal"
+            ],
+            "total": 13000
+        },
+        {
+            "participant":"repo",
+            "itemname":[
+                {"item": "gacoan lvl 2"},
+                {"item": "gacoan lvl 3"}
+
+            ],
+            "items":[
+                {"itemprice": 20000},
+                {"itemprice": 15000}
+            ],
+            "payTo":[
+                "arjuna"
+            ],
+            "total": 35000
+        }
+    ]
+
+}

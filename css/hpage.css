@@ -1,0 +1,44 @@
+body {
+    background-color: #B6BBC4;
+}
+
+.navbar {
+    background-color: #31304D;
+}
+
+.content-container {
+    max-width: 800px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.jumbotron {
+    background-color: #F0ECE5;
+    text-align: center;
+    padding: 20px;
+}
+
+#user-photo {
+    max-width: 20%;
+    border-radius: 10%;
+    margin-bottom: 20px;
+}
+
+#user-name {
+    color: #007bff;
+}
+
+#user-email {
+    color: #007bff;
+    font-style: italic;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}

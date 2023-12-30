@@ -1,0 +1,42 @@
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    color: #343a40; /* Dark gray text */
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h1, h3 {
+    color: #007bff; /* Blue header text */
+}
+
+.border-black {
+    border-color: #000; /* Black border */
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+#eventname {
+    color: #28a745; /* Green event name */
+}
+
+#participant, #payinfo, #paydomain, #particip, #item, #price, #fpayer, #total-price {
+    background-color: #ffffff; /* White background for data cells */
+    padding: 10px;
+    border: 1px solid #dee2e6; /* Light gray border */
+}
+
+#interactive-button {
+    background-color: #007bff; /* Blue button color */
+    color: #fff; /* White button text color */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#interactive-container {
+    margin-top: 20px;
+}
